@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "login-ng-cac4a": {
+      "hosting": {
+        "login": [
+          "login-ng-cac4a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "login-ng-cac4a"
+  }
+}
